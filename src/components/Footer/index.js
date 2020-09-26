@@ -3,8 +3,8 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <span>HiHi </span>
+    <footer>
+      <span>&copy Max Edmonds</span>
     </footer>
   );
 }

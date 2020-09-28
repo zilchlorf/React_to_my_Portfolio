@@ -4,18 +4,19 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 import Resume from "./pages/Resume";
-import AboutMe from "./pages/AboutMe";
-import Projects from "./pages/Projects";
-import Contact from "./pages/Contact";
+import AboutMe from "./pages/AboutMe/AboutMe";
+import Projects from "./pages/Projects/Projects";
+import Contact from "./pages/Contact/Contact";
 
 import "./App.css";
 
 function App() {
   const pages = [
-    { path: "/resume", title: "Resume", page: <Resume /> },
+    { path: "/", title: "Home", page: <AboutMe /> },
     { path: "/aboutme", title: "About Me", page: <AboutMe /> },
     { path: "/projects", title: "Projects", page: <Projects /> },
     { path: "/contact", title: "Contact", page: <Contact /> },
+    { path: "/resume", title: "Resume", page: <Resume /> }
   ];
   return (
     <>

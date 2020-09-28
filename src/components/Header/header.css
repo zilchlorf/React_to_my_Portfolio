@@ -1,0 +1,18 @@
+
+#header{
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  font-style: normal;
+  text-shadow: black;
+  color: #0f0202;
+  font-weight: bolder;
+  background-color: #28a745;
+}
+
+#basic-navbar-nav {
+  margin-right: 40px;
+  font-size: 20px;
+  font-style: normal;
+  color: #0f0202;
+}

@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer>
-      <span>&copy Max Edmonds</span>
+      <span> Copyright &copy; 2020 Max William Edmonds</span>
     </footer>
   );
 }

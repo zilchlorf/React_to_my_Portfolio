@@ -11,6 +11,7 @@
 }
 
 #basic-navbar-nav {
+  position: relative;
   margin-right: 40px;
   font-size: 20px;
   font-style: normal;

@@ -33,7 +33,13 @@ input[type=text], select, textarea, .form-group {
     margin-right: 100px;
     font-size: 20px;
     font-family: sans-serif;
+
+    
   }
   #formText {
       color: #45a049;
+  }
+
+  #emailStatement {
+    font-size: xx-large;
   }

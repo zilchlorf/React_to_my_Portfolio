@@ -11,15 +11,13 @@ border: black;
 border-width: 100px;
 text-align: left;
 margin-top: 4rem;
-font-size: 20px;
+font-size: 30px;
 }
 .content{
 
     background-color: rgba(7, 7, 7, 0.979);  
 }
-.container{
- 
-}
+
 @media screen and (max-width: 320) {
 
     

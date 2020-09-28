@@ -1,7 +1,7 @@
 import React from "react";
 
 import { NavLink } from 'react-router-dom';
-import { Navbar, Nav } from "react-bootstrap";
+import { Navbar, Nav} from "react-bootstrap";
 
 import "./header.css";
 
@@ -11,7 +11,7 @@ function Header(props) {
   return (
     <header className="header">
       <Navbar bg="light" expand="lg">
-        <Navbar.Brand id="header" > Welcome to the portfolio of Max William Edmonds</Navbar.Brand>
+        <Navbar.Brand id="header" >Max William Edmonds Developer Portfolio</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">

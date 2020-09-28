@@ -16,14 +16,22 @@ h1{
   }
 #Card { 
     position: relative;
-font-size: 15px;
-display: flex;
+font-size: 20px;
+margin-bottom: 30px;
 }
 .content{
  background-color: rgba(7, 7, 7, 0.979);  
 }
 .container{
- width: 100vh;
- height: 100vh;
+
  background-color: rgba(7, 7, 7, 0.979);  
+}
+
+#LinksToMedia {
+    text-align: center;
+}
+#headingText {
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
 }

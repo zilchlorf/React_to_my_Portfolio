@@ -11,7 +11,7 @@ function AboutMe() {
                 <>
                 </>
                 <Col id="PortfolioContainer" className="header" md={8}>
-                    <img id="ProfilePic" mode='fit' src="../Images/Roots profile pic.jpg" alt="profile Pic" />
+                    <img id="ProfilePic" mode='fit' src="images/Roots profile pic.jpg" alt="profile Pic" />
 
                 </Col>
                 <Col md={4}>

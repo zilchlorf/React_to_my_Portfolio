@@ -33,7 +33,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/Weerklank/HyperSlugs">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="./Images/Tunado.jpg" alt="Tunado homepage screenshot" />
+                        <img id="KizikPicture" src="images/Tunado.jpg" alt="Tunado homepage screenshot" />
 
                     </Card>
 
@@ -47,13 +47,13 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Burger_Devourer">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="./Images/Burger Devourer.jpg" alt="Burger Devourer application snapshot" />
+                        <img id="KizikPicture" src="images/Burger Devourer.jpg" alt="Burger Devourer application snapshot" />
 
                     </Card>
 
                 </Col>
-                </Row>
-                <Row>
+            </Row>
+            <Row>
                 <Col lg={4}>
                     <Card id="Card">
                         <div id="headingText">Active Person Tracker                   <p id="LinksToMedia">
@@ -62,7 +62,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Active-Person-Tracker">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="./Images/active_person_tracker.jpg" alt="Active Person Tracker application snapshot" />
+                        <img id="KizikPicture" src="images/active_person_tracker.jpg" alt="Active Person Tracker application snapshot" />
                     </Card>
 
                 </Col>
@@ -74,7 +74,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Avid_Traveler_Budget_App">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="./Images/Avid_Traveller_Budget_App.jpg" alt="Avid Traveller Budget App snapshot" />
+                        <img id="KizikPicture" src="images/Avid_Traveller_Budget_App.jpg" alt="Avid Traveller Budget App snapshot" />
                     </Card>
 
                 </Col>
@@ -87,11 +87,11 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Employee_Catalog">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="./Images/Employee_Catalog.jpg" alt="Employee catalog application snapshot" />
+                        <img id="KizikPicture" src="images/Employee_Catalog.jpg" alt="Employee catalog application snapshot" />
                     </Card>
 
                 </Col>
-                </Row>
+            </Row>
         </Container>
     );
 }

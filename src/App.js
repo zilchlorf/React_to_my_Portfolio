@@ -2,8 +2,6 @@ import React from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-
-
 import AboutMe from "./pages/AboutMe/AboutMe";
 import Projects from "./pages/Projects/Projects";
 import Contact from "./pages/Contact/Contact";

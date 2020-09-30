@@ -1,12 +1,33 @@
 body, html {
   min-height: 100vh;
+  margin: auto;
+position: relative;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  
 }
 
 .content {
   min-height: 100%;
+
+}
+.container{
+  position: relative;
 }
 
 footer {
   margin-top: -50px;
   height: 50px;
 }
+
+@media only screen and (max-width: 660px) {
+  .content {
+    display: inline-block
+  }
+  body {
+    background-color: black;
+  }
+
+}
+

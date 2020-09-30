@@ -1,5 +1,6 @@
 import React from "react";
 import "./AboutMe.css"
+import "../../App.css"
 import { Container, Row, Col, Card } from "react-bootstrap";
 
 function AboutMe() {

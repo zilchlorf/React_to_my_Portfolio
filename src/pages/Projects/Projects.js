@@ -19,7 +19,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/KeithBillings/Party-Planner">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/party planning committee screenshot.jpg" alt="Party planning committee app pic" />
+                        <img id="ProjectPic1" src="images/party planning committee screenshot.jpg" alt="Party planning committee app pic" />
 
                     </Card>
 
@@ -33,7 +33,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/Weerklank/HyperSlugs">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/Tunado.jpg" alt="Tunado homepage screenshot" />
+                        <img id="ProjectPic2" src="images/Tunado.jpg" alt="Tunado homepage screenshot" />
 
                     </Card>
 
@@ -47,7 +47,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Burger_Devourer">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/Burger Devourer.jpg" alt="Burger Devourer application snapshot" />
+                        <img id="ProjectPic3" src="images/Burger Devourer.jpg" alt="Burger Devourer application snapshot" />
 
                     </Card>
 
@@ -62,7 +62,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Active-Person-Tracker">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/active_person_tracker.jpg" alt="Active Person Tracker application snapshot" />
+                        <img id="ProjectPic4" src="images/active_person_tracker.jpg" alt="Active Person Tracker application snapshot" />
                     </Card>
 
                 </Col>
@@ -74,7 +74,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Avid_Traveler_Budget_App">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/Avid_Traveller_Budget_App.jpg" alt="Avid Traveller Budget App snapshot" />
+                        <img id="ProjectPic5" src="images/Avid_Traveller_Budget_App.jpg" alt="Avid Traveller Budget App snapshot" />
                     </Card>
 
                 </Col>
@@ -87,7 +87,7 @@ function Projects() {
                             <p id="LinksToMedia">
                                 <a href="https://github.com/zilchlorf/Employee_Catalog">GitHub repository</a>
                             </p></div>
-                        <img id="KizikPicture" src="images/Employee_Catalog.jpg" alt="Employee catalog application snapshot" />
+                        <img id="ProjectPic6" src="images/Employee_Catalog.jpg" alt="Employee catalog application snapshot" />
                     </Card>
 
                 </Col>

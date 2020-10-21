@@ -1,7 +1,11 @@
-import React from 'react';
+// import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from "react-router-dom";
-import App from './App';
+import routes from './routes';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import './index.css';
+import registerServiceWorker from './registerServiceWorker';
 
+import './theme/globalStyle'
 
-ReactDOM.render(<BrowserRouter><App /></BrowserRouter>, document.getElementById('root'));
+ReactDOM.render(routes, document.getElementById('root'));
+registerServiceWorker();

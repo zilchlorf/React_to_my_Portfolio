@@ -146,19 +146,19 @@ class Code extends Component {
         <div>
         <CenteredHeader>Recent work:</CenteredHeader>
         <PortRow>
-            <a href="https://employee-catalog2.herokuapp.com/" target="_blank">
+            <a href="https://reds-gold-greens.herokuapp.com" >
               <CodeThumbnail src={require("../assets/RGG_Tours.png")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Group Project #3 Reds, Gold & Greens</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://reds-gold-greens.herokuapp.com" alt="RGG Tours" target="_blank">
+                  <PortButton href="https://reds-gold-greens.herokuapp.com" alt="RGG Tours" >
                     Demo
                 </PortButton>
                   <PortButton
                     href="https://github.com/zilchlorf/RGG_Tours"
-                    target="_blank"
+                    
                   >
                     Code
                 </PortButton>
@@ -181,19 +181,19 @@ class Code extends Component {
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://employee-catalog2.herokuapp.com/" target="_blank">
+            <a href="https://employee-catalog2.herokuapp.com/" >
               <CodeThumbnail src={require("../assets/PPC_screenshot.jpg")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Group Project #2 Party Planning Committee</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://partyplanningcommittee.herokuapp.com/" target="_blank">
+                  <PortButton href="https://partyplanningcommittee.herokuapp.com/" >
                     Demo
                 </PortButton>
                   <PortButton
                     href="https://github.com/zilchlorf/Party-Planner"
-                    target="_blank"
+                    
                   >
                     Code
                 </PortButton>
@@ -214,19 +214,19 @@ class Code extends Component {
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://employee-catalog2.herokuapp.com/" alt="Employee catalog application snapshot" target="_blank">
+            <a href="https://employee-catalog2.herokuapp.com/" alt="Employee catalog application snapshot" >
               <CodeThumbnail src={require("../assets/Employee_Catalog.jpg")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Employee Catalog:</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://employee-catalog2.herokuapp.com/" target="_blank">
+                  <PortButton href="https://employee-catalog2.herokuapp.com/" >
                     Demo
                 </PortButton>
                   <PortButton
                     href="https://github.com/zilchlorf/Employee_Catalog"
-                    target="_blank"
+                    
                   >
                     Code
                 </PortButton>
@@ -247,19 +247,19 @@ class Code extends Component {
 
           <hr />
           <PortRow>
-            <a href="https://employee-catalog2.herokuapp.com/" target="_blank">
+            <a href="https://agile-ocean-45821.herokuapp.com/" >
               <CodeThumbnail src={require("../assets/Burger Devourer.jpg")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Burger Devourer</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://agile-ocean-45821.herokuapp.com" target="_blank">
+                  <PortButton href="https://agile-ocean-45821.herokuapp.com/" >
                     Demo
                 </PortButton>
                   <PortButton
                     href="https://github.com/zilchlorf/Burger_Devourer"
-                    target="_blank"
+                    
                   >
                     Code
                 </PortButton>
@@ -279,19 +279,19 @@ class Code extends Component {
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://github.com/zilchlorf/Google_Bookworm" target="_blank">
+            <a href="https://google-bookworm.herokuapp.com/" >
               <CodeThumbnail src={require("../assets/Google bookworm.jpg")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Google Bookworm</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://google-bookworm.herokuapp.com/" target="_blank">
+                  <PortButton href="https://google-bookworm.herokuapp.com/" >
                     Demo
                 </PortButton>
                   <PortButton
                     href="https://github.com/zilchlorf/Google_Bookworm"
-                    target="_blank"
+                    
                   >
                     Code
                 </PortButton>

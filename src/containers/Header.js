@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const ProfileImage = styled.img`
   width: 12em;
   height: 12em;
-  border-radius: 50%;
+  border-radius: 40%;
 `;
 
 const ProfileTitle = styled.h1`
@@ -15,8 +15,9 @@ const ProfileTitle = styled.h1`
 const HeaderDiv = styled.div`
   padding-top: 5vh;
   text-align: center;
-  font-family: 'Zilla Slab Highlight', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: black;
+  background-color: whitesmoke;
 `;
 
 const NavLink = styled(Link)`

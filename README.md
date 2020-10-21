@@ -12,6 +12,7 @@ Table of Contents:
 - [tests](#tests)
 - [Questions](#Questions)
 
+![image](https://user-images.githubusercontent.com/63215148/96673630-c4b25b80-131b-11eb-8ba8-b5e72996873f.png)
 
 # Project_Description:
 Redesign personal profile to be powered by React.js. 

@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>Hi! I'm Max. I'm a software developer based in Beaverton, Oregon.</CenteredHeader>
-        <CenteredHeader> I'm also a Nature enthusiast, musician and avid hiker.
+        <CenteredHeader> I'm also a nature enthusiast, musician and avid hiker.
         I play bass guitar for the legendary Oregon-based
                         band, <a href="https://kizik.bandcamp.com/"> KiZiK.</a></CenteredHeader>
                         <CenteredHeader> <p>My background in Journalism and my

@@ -25,6 +25,7 @@ const NavLink = styled(Link)`
   margin: 0 5px;
   color: black;
   font-size: 16px;
+  
 `
 
 

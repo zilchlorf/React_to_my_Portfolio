@@ -39,7 +39,6 @@ class Footer extends Component {
               <SocialIcon><a href="mailto:maxedmonds05@gmail.com" ><FAIcon className="fa fa-envelope fa-fw fa-2x" /></a></SocialIcon>
               <SocialIcon><a href="http://www.linkedin.com/in/max-edmonds-abab5b1a/" ><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
               <SocialIcon><a href="https://github.com/zilchlorf" ><FAIcon className="fa fa-github fa-fw fa-2x" /></a></SocialIcon>
-              <SocialIcon><a href="https://twitter.com/zilchlorf" ><FAIcon className="fa fa-twitter fa-fw fa-2x" /></a></SocialIcon>
             </SocialIconList>
             <br />
           </div>

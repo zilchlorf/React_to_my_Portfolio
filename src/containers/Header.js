@@ -3,9 +3,9 @@ import { Link } from 'react-router'
 import styled from 'styled-components';
 
 const ProfileImage = styled.img`
-  width: 12em;
-  height: 12em;
-  border-radius: 40%;
+  width: 15rem;
+  height: 20rem;
+  border-radius: 20%;
 `;
 
 const ProfileTitle = styled.h1`
@@ -33,7 +33,7 @@ class Header extends Component {
     return (
       <HeaderDiv>
         <Link to="/">
-          <ProfileImage src={require('../assets/Profile_room_pic.JPG')} alt='Max William Edmonds'/>
+          <ProfileImage  src={require('../assets/Profile_room_pic.JPG')} alt='Max William Edmonds'/>
           <ProfileTitle>Max William Edmonds</ProfileTitle>
         </Link>
         <div>

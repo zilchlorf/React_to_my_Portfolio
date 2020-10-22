@@ -32,7 +32,7 @@ class Contact extends Component {
   render() {
     return (
       <div>
-                <CenteredHeader><PortButton href="https://bit.ly/37ptCkP" >Peruse or download my Resume</PortButton></CenteredHeader>
+                <CenteredHeader><PortButton href="https://bit.ly/37ptCkP" >Resume</PortButton></CenteredHeader>
         <CenteredHeader>Get in touch with me:</CenteredHeader>
 
         <FormDiv>

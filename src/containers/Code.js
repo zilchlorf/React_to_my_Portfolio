@@ -88,6 +88,7 @@ const UsedList = styled.ul`
   list-style: none;
   padding: 0;
   margin: 0 auto;
+  
 `;
 
 const UsedItem = styled.ul`
@@ -151,7 +152,7 @@ class Code extends Component {
             </a>
             <PortAllText>
               <PortTitleContainer>
-                <PortTitle>Group Project #3 Reds, Gold & Greens</PortTitle>
+                <PortTitle>Group Project #3: Reds, Gold & Greens</PortTitle>
                 <PortButtonContainer>
                   <PortButton href="https://reds-gold-greens.herokuapp.com" alt="RGG Tours" >
                     Demo
@@ -168,7 +169,7 @@ class Code extends Component {
               For our final team project, we decided to build a fully functioning web site for a completely new business that we created. This project is intended to showcase our newly acquired skills as Full Stack Web Developers as well as highlight our entrepreneurial spirits. Our business model is simple. Book online. Pay upfront. Call us because you want to, not because you need to.
               </PortDescription>
 
-              <UsedList>
+              {/* <UsedList>
                 <UsedItem>React</UsedItem>
                 <UsedItem>MongoDb</UsedItem>
                 <UsedItem>Express</UsedItem>
@@ -176,17 +177,17 @@ class Code extends Component {
                 <UsedItem>Nodemailer</UsedItem>
                 <UsedItem>Axios</UsedItem>
     
-              </UsedList>
+              </UsedList> */}
             </PortAllText>
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://employee-catalog2.herokuapp.com/" >
+            <a href="https://partyplanningcommittee.herokuapp.com/" >
               <CodeThumbnail src={require("../assets/PPC_screenshot.jpg")} />
             </a>
             <PortAllText>
               <PortTitleContainer>
-                <PortTitle>Group Project #2 Party Planning Committee</PortTitle>
+                <PortTitle>Group Project #2: Party Planning Committee</PortTitle>
                 <PortButtonContainer>
                   <PortButton href="https://partyplanningcommittee.herokuapp.com/" >
                     Demo
@@ -203,13 +204,13 @@ class Code extends Component {
                 Based on "The Office" theme, this is a fun, web based application to record, retrieve, and display information required to plan and host a great party. Inputs will be gathered from the user and added to a unique event page with details about the event: Name of Event, Description, Location/Venue, Date and Time. An interactive map will be present on the event page as well as an interactive message board for guests to post information about the party or send a notice to the host. Users will be able to add, edit, and update the event details and guest list information as needed and post to the event page. Users can search for their events as well.
               </PortDescription>
 
-              <UsedList>
+              {/* <UsedList>
                 <UsedItem>React</UsedItem>
                 <UsedItem>Sequelize</UsedItem>
                 <UsedItem>Node.js</UsedItem>
                 <UsedItem>Express</UsedItem>
     
-              </UsedList>
+              </UsedList> */}
             </PortAllText>
           </PortRow>
           <hr />
@@ -219,7 +220,7 @@ class Code extends Component {
             </a>
             <PortAllText>
               <PortTitleContainer>
-                <PortTitle>Employee Catalog:</PortTitle>
+                <PortTitle>Employee Catalog</PortTitle>
                 <PortButtonContainer>
                   <PortButton href="https://employee-catalog2.herokuapp.com/" >
                     Demo
@@ -235,12 +236,12 @@ class Code extends Component {
               <PortDescription>
                 React application displaying a table of employees. The table can be sorted or filtered by any of the columns of information.
               </PortDescription>
-
+{/* 
               <UsedList>
                 <UsedItem>React</UsedItem>
                 <UsedItem>Axios</UsedItem>
     
-              </UsedList>
+              </UsedList> */}
             </PortAllText>
           </PortRow>
          
@@ -269,12 +270,12 @@ class Code extends Component {
               Burger Devourer is a restaurant app that lets users input the burgers or sandwiches they'd like to eat. Each entry builds a list of the burgers with a corresponding button "Devour it!" that moves the burger to a new list which designates the burger as being "devoured."
               </PortDescription>
 
-              <UsedList>
+              {/* <UsedList>
                 <UsedItem>Node.js</UsedItem>
                 <UsedItem>express</UsedItem>
                 <UsedItem>express-handlebars</UsedItem>
                 <UsedItem>mysql</UsedItem>
-              </UsedList>
+              </UsedList> */}
             </PortAllText>
           </PortRow>
           <hr />
@@ -301,11 +302,11 @@ class Code extends Component {
               React-based Google Books Search app. Search and Save books that you want to add to your reading list.
               </PortDescription>
 
-              <UsedList>
+              {/* <UsedList>
                 <UsedItem>React.js</UsedItem>
                 <UsedItem>MongoDb</UsedItem>
                 <UsedItem>Express</UsedItem>
-              </UsedList>
+              </UsedList> */}
             </PortAllText>
           </PortRow>
         </div>

@@ -34,13 +34,13 @@ class Header extends Component {
     return (
       <HeaderDiv>
         <Link to="/">
-          <ProfileImage  src={require('../assets/Profile_room_pic.JPG')} alt='Max William Edmonds'/>
+          <ProfileImage  src={require('../assets/Filtered profile pic.jpg')} alt='Max William Edmonds'/>
           <ProfileTitle>Max William Edmonds</ProfileTitle>
         </Link>
         <div>
-          <NavLink to='/'>ABOUT</NavLink>
-          <NavLink to='/code'>CODE</NavLink>
-          <NavLink to='/contact'>CONTACT</NavLink>
+          <NavLink to='/'>ABOUT&nbsp;</NavLink>
+          <NavLink to='/code'>CODE&nbsp;</NavLink>
+          <NavLink to='/contact'>CONTACT&nbsp;</NavLink>
         </div>
         <hr/>
       </HeaderDiv>
